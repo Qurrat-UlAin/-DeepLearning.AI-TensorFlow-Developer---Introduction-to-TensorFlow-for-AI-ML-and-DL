@@ -1,1 +1,2 @@
-Building towards final year project :)
+This repository has my solutions for the assignments issued in 'Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning' on Coursera. Moreover, it contains an NN for emotion recognition with a not-so-very impressive accuracy but it's a start.
+Everything here belongs to their rightful owner, For my NN I used the dataset 'https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/data' and my own code for the assignment work.
